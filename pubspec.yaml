@@ -36,7 +36,7 @@ dependencies:
   rxdart: ^0.27.7
   circular_profile_avatar: ^2.0.5
   shared_preferences: ^2.2.1
-  cached_network_image: ^3.2.3
+  cached_network_image: ^3.3.1
   image_picker: ^1.0.4
   permission_handler: ^11.0.0
   email_otp: ^2.0.1

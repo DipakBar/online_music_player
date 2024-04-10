@@ -47,7 +47,7 @@ class StartPageState extends State<StartPage> {
           Padding(
             padding: EdgeInsets.only(bottom: 10),
             child: Text(
-              "Developed By Snehasis",
+              "Developed By Dipak",
               style: TextStyle(
                 fontWeight: FontWeight.normal,
               ),

@@ -1022,11 +1022,11 @@ class _ProfilePageState extends State<ProfilePage> {
                                             SongPageState.beforeid = 0;
                                             SongPageState.beforeindex = 0;
                                             player.dispose();
-                                            Navigator.of(context)
-                                                .pushReplacement(
-                                                    MaterialPageRoute(
-                                                        builder: (context) =>
-                                                            OtpVerify(user)));
+                                            // Navigator.of(context)
+                                            //     .pushReplacement(
+                                            //         MaterialPageRoute(
+                                            //             builder: (context) =>
+                                            //                 OtpVerify(user)));
                                           },
                                           child: const Text(
                                             "Yes",
